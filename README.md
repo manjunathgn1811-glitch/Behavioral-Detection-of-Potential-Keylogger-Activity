@@ -1,0 +1,2 @@
+# Behavioral-Detection-of-Potential-Keylogger-Activity
+This project is a Python-based cybersecurity awareness tool that detects potential keylogger related behavior by scanning running processes &amp; startup entries. It analyzes suspicious patterns, generates security reports &amp; helps users understand malware detection techniques without recording keystrokes,promoting safe &amp;ethical cybersecurity practices.
